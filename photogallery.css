@@ -1,0 +1,39 @@
+/* #one{
+    background-color: blue;
+}
+#two{
+    background-color: blueviolet;
+}
+div{
+    width: 100px;
+    float: left;
+
+} */
+img{
+    width:15%;
+ 
+    margin:1.66%;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    margin:1.66%;
+    font-weight: 800;
+    border-bottom:3px solid red;
+    width: 30%;
+    padding-bottom:20px;
+}
+img:nth-of-type(3){
+    height:300px;
+}
+img:nth-of-type(5){
+    height:300px;
+}
+
+
+img:nth-of-type(8){
+    height:300px;
+}
+
+
+
